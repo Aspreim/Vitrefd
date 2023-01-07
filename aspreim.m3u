@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Haberturk
-http://live-ciner.mncdn.net/haberturk/haberturk2/chunklist_w1452765031.m3u8
+http://mn-l.mncdn.com/haberturk//haberturk2
 #EXTINF:0,TRT
 http://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:0,Show
