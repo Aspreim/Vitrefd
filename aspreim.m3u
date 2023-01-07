@@ -3,6 +3,10 @@
 https://tv.kuzeytv.com/hls/haberturk.m3u8
 #EXTINF:0,TRT
 http://tv-trt1.live.trt.com.tr/master_720.m3u8
+#EXTINF:0,Kanal d
+https://kanald.blutv.com/blutv_kanald_live/live.m3u8
+#EXTINF:0,Fox
+http://www.iptvsaga.com/play/tv3/0065.m3u8
 #EXTINF:0,Show
 http://185.71.64.167:80/307245103371/307245103371/80733?checkedby:dailyfreeiptvlist.com
 #EXTINF:0,TLC
