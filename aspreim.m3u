@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Haberturk
-http://mn-l.mncdn.com/haberturk//haberturk2
+https://tv.kuzeytv.com/hls/haberturk.m3u8
 #EXTINF:0,TRT
 http://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:0,Show
